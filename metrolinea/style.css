@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+header{
+    background-color: red;
+    width:80%;
+}
+.Encabezado .comprarTarjeta{
+    text-decoration: underline;
+    text-align: right;
+}
+
+
+nav { 
+    background-color: black;
+    width:20%;
+
+}
+nav p{
+    color: white;
+    font-size: 20px;
+}
